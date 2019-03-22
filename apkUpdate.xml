@@ -10,7 +10,7 @@
 <locationUrl>https://newgame-1252766646.cos.ap-guangzhou.myqcloud.com/moveLocation.apk</locationUrl>
 		<locationMd5>3A3168A788A677B563D525EC15AFB431</locationMd5>
 		<locationName>moveLocation.apk</locationName>
-<picUrl>ftp://dicky@192.168.31.109/pan/pic.zip</picUrl>
+<picUrl>pan/pic.zip</picUrl>
 		<picMd5>70D841A33962698BC57162A4972204F7</picMd5>
 		<picName>pic.zip</picName>
 	</AppConfig>
