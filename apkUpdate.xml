@@ -4,10 +4,10 @@
 <appUrl>https://raw.githubusercontent.com/ydickyj/dfcp/master/helper.apk</appUrl>
 		<appMd5>164A5550D2A10A5959C9D5C668645959</appMd5>
 		<appName>helper.apk</appName>
-<fishUrl>https://raw.githubusercontent.com/ydickyj/dfcp/master/IdleFish.apk</fishUrl>
+<fishUrl>pan/IdleFish.apk</fishUrl>
 		<fishMd5>97AA5E2695E76F9EB10472BBFBD1E86C</fishMd5>
 		<fishName>IdleFish.apk</fishName>
-<locationUrl>https://newgame-1252766646.cos.ap-guangzhou.myqcloud.com/moveLocation.apk</locationUrl>
+<locationUrl>pan/moveLocation.apk</locationUrl>
 		<locationMd5>3A3168A788A677B563D525EC15AFB431</locationMd5>
 		<locationName>moveLocation.apk</locationName>
 <picUrl>pan/pic.zip</picUrl>
