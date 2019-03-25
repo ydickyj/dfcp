@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 	<AppConfig>
 		<appVer>1.0</appVer>
-<appUrl>https://raw.githubusercontent.com/ydickyj/dfcp/master/helper.apk</appUrl>
+<appUrl>pan/helper.apk</appUrl>
 		<appMd5>044677D0B4AC1A988EDDE3529086972A</appMd5>
 		<appName>helper.apk</appName>
 <fishUrl>pan/IdleFish.apk</fishUrl>
