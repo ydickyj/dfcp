@@ -2,7 +2,7 @@
 <AppConfig>
 	<appVer>1.0</appVer>
 	<appUrl>panB/helper.apk</appUrl>
-	<appMd5>D19A8285251D1BB3DE3E758BFD1E5CF4</appMd5>
+	<appMd5>F9A6FB2C8302E303A1BDD297B3DC572A</appMd5>
 	<appName>helper.apk</appName>
 	<fishUrl>pan/IdleFish.apk</fishUrl>
 	<fishMd5>97AA5E2695E76F9EB10472BBFBD1E86C</fishMd5>
@@ -11,6 +11,6 @@
 	<locationMd5>3A3168A788A677B563D525EC15AFB431</locationMd5>
 	<locationName>moveLocation.apk</locationName>
 	<picUrl>panB/pic.zip</picUrl>
-	<picMd5>7FEB0369A36E57C1C57DE3989F5F4248</picMd5>
+	<picMd5>3F755D7BB3D7924A410C810AB9508431</picMd5>
 	<picName>pic.zip</picName>
 </AppConfig>
