@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AppConfig>
+	<appVer>1.0</appVer>
+	<appUrl>panE/helper.apk</appUrl>
+	<appMd5>F2F1C941D5A4EFEBCBFBBD6E38CB2820</appMd5>
+	<appName>helper.apk</appName>
+	<fishUrl>pan/IdleFish.apk</fishUrl>
+	<fishMd5>97AA5E2695E76F9EB10472BBFBD1E86C</fishMd5>
+	<fishName>IdleFish.apk</fishName>
+	<locationUrl>pan/moveLocation.apk</locationUrl>
+	<locationMd5>3A3168A788A677B563D525EC15AFB431</locationMd5>
+	<locationName>moveLocation.apk</locationName>
+	<picUrl>panF/pic.zip</picUrl>
+	<picMd5>150BFC7CE795A4198C145E5AB2D2D22D</picMd5>
+	<picName>pic.zip</picName>
+</AppConfig>
